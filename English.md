@@ -32,4 +32,14 @@
 |continual|a.重复的，频繁的，持续不断的|
 |reflective|a. 沉思的，可反光的|
 |converse|v. 谈话 n. 反面，相反的事物|
-|critic|n.批评者，评论家，批判加|
+|critic|n.批评者，评论家，批判家|
+|partisan|n.坚定的支持者，a.盲目支持的|
+|sacred|a.重要的,神圣的，深受尊重的|
+|domestic|a. 家庭的，国内的|
+|chore|n. 家庭杂物，日常琐事|
+|consultant|n.顾问|
+|collaborate|v.合作，协作|
+|ethusiast|n.热衷者，好心人|
+|alter|v.使改变，变换|
+|assess|v.评价，对..估价|
+|burden|n.重担，负担，v.困扰，承受负担|
