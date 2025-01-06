@@ -8,7 +8,7 @@
 
 English:
 
- In recent years, with the rapid development of internet technology, the internet economy has become a hot topic. The internet economy, represented by e-commerce, has become an important engine of China's economic development. Our government has proposed the concept of 'Internet Plus' to promote the integration of the internet with fields such as healthcare, transportation, education, finance, and public services. This will provide more development opportunities and broader development space for the growth of the internet economy.
+ In recent years, with the rapid development of internet technology, the internet economy has become a hot topic. The internet economy, represented by e-commerce, has become an important diving force for China's economic development. Our government has proposed the concept of 'Internet Plus' to promote the integration of the internet with fields such as healthcare, transportation, education, finance, and public services. This will provide more development opportunities and broader development space for the growth of the internet economy.
 
 ## Unit 2
 ![image](https://github.com/user-attachments/assets/5b217bbf-158f-42eb-a4eb-91af1ae1adb0)
