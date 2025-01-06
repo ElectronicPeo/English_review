@@ -43,3 +43,63 @@
 |alter|v.使改变，变换|
 |assess|v.评价，对..估价|
 |burden|n.重担，负担，v.困扰，承受负担|
+
+## 翻译生词
+ritual  n. 仪式，典礼，惯例   adj. 例行的，仪式的
+
+gala n. 晚会
+
+ethnic adj. 民族的，种族的，文化的 n. 民族，种族
+
+minority n. 少数，少数派
+
+scenic adj. 风景如画的，景色优美的
+
+beauty n. 美，优雅，魅力，吸引力 adj. 美丽的，优美的
+
+historical adj. 历史的
+
+confine  v. 限制，禁闭，局限 n. 限制，边界
+
+realizing national rejuvenation 实现中华民族（国家）伟大复兴
+
+since modern times 近代以来、
+
+the greatest Chinese expectation 中国人民最伟大的梦想
+
+In essence 本质上,基本内涵
+
+commitment n. 承诺，委托，献身，责任
+
+prosperity and happiness to the country, the nation, and the people 
+国家富强，民族振兴，人民幸福
+
+maintain firm confidence   保持坚定的信心
+
+unite as one 团结一致，同心同德
+
+strive in unity  团结一致的奋斗
+
+on all fronts 全面，各个方面
+
+the future of our country 国家的未来，国家的命运
+
+用逗号隔开的话也可以用两个句子来表示
+
+China's transformation into a trader of quality 中国向贸易强国转型（高质量的贸易者），建设贸易强国
+
+加快建设贸易强国  accelerate the construction of a strong trading nation.
+
+globally-oriented 全球导向的
+
+orient n. 东方，亚洲，特别是中国和日本等国 v. 确定方向，调整，适应
+
+pilot free trade zones  试点自由贸易区，自由贸易试验区
+
+pilot n. 飞行员，领航员 v. 试点，进行试验，带领
+
+a major destination for global investment and a leading country in outbound investment 外资的主要目的地和对外投资的领先国家
+
+吸引外资和对外投资名列前茅
+attracting foreign investment and making outbound investments rank among the top
+
